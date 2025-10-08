@@ -5,6 +5,7 @@ Awesome Competitive Combinatorial Problems From Mathematical Olympiads/Competiti
 * ![image](https://github.com/user-attachments/assets/72d94a3f-5df5-4ccd-ba06-08c264b4cc6a)
 
 * ![image](https://github.com/user-attachments/assets/436a923e-c8f0-4058-9752-9aa95837e4b6)
+  * KHTNHN Vòng 2 TS10
 
 * ![image](https://github.com/user-attachments/assets/6f6e0333-b58e-4d2c-ba00-060196dafcb0)
 
