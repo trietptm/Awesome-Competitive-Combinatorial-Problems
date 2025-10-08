@@ -1,2 +1,19 @@
 # Awesome-Competitive-Combinatorial-Problems
 Awesome Competitive Combinatorial Problems From Mathematical Olympiads/Competitions/Contests
+
+## 2025:
+* ![image](https://github.com/user-attachments/assets/e7f3fdb4-a32a-456e-93bc-0cd7de6aaf94)
+
+* ![image](https://github.com/user-attachments/assets/6f6e0333-b58e-4d2c-ba00-060196dafcb0)
+
+* ![image](https://github.com/user-attachments/assets/c842e678-3654-4313-a530-17528c52edc3)
+
+* ![image](https://github.com/user-attachments/assets/ee644c71-6a38-4f47-8211-5139d3eb3d11)
+
+* ![image](https://github.com/user-attachments/assets/72d94a3f-5df5-4ccd-ba06-08c264b4cc6a)
+
+* ![image](https://github.com/user-attachments/assets/3709f5fa-f8fe-488a-9cb6-b30e0827135b)
+
+
+
+
