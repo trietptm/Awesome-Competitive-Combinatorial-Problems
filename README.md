@@ -20,6 +20,9 @@ Awesome Competitive Combinatorial Problems From Mathematical Olympiads/Competiti
 
 * ![image](https://github.com/user-attachments/assets/3709f5fa-f8fe-488a-9cb6-b30e0827135b)
 
+* ![image](https://github.com/user-attachments/assets/61d8794e-477b-4b27-be24-fb9fdbfb258f)
+  * THCS HẬU THÀNH - GIAI LẠC
+
 ## 2024:
 * ![image](https://github.com/user-attachments/assets/62655995-4a8e-491d-a04d-e771a9f07b7a)
   * ![image](https://github.com/user-attachments/assets/12486a87-4355-4b95-9462-d94c7787e947)
