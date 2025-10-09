@@ -11,6 +11,7 @@ Awesome Competitive Combinatorial Problems From Mathematical Olympiads/Competiti
 * ![image](https://github.com/user-attachments/assets/e16f651d-89ae-4f7b-8372-59a487793c6a)
 * ![image](https://github.com/user-attachments/assets/319674b4-22c0-4e2a-ba96-adc1545dcbf4)
 * ![image](https://github.com/user-attachments/assets/4f352289-b1be-4f58-8adc-d3f33271fda4)
+* ![image](https://github.com/user-attachments/assets/065d9f09-1787-4342-b214-6411d43c6692)
 * 
 
 
