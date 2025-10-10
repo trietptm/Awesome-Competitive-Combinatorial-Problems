@@ -2,6 +2,7 @@
 Awesome Competitive Combinatorial Problems From Mathematical Olympiads/Competitions/Contests
 
 ## 2025:
+* ![image](https://github.com/user-attachments/assets/03b6e4af-2022-4525-b85b-f4273a9b068b)
 * ![image](https://github.com/user-attachments/assets/abae85ee-87ce-4905-a2c8-76ac40b2c0be)
 * ![image](https://github.com/user-attachments/assets/e1a02c7d-9eb6-4c71-9864-37f7bcd37c9b)
 * ![image](https://github.com/user-attachments/assets/87888727-fdd0-4a5c-9d25-51b66b8abc3a)
